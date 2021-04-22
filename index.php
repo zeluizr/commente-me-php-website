@@ -5,7 +5,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	
+	<script src="//rum-static.pingdom.net/pa-6081cfda365abb001100027d.js" async></script>
 	<title>Commente-me</title>
 	<link rel="icon" type="image/png" href="imgs/favicon.png" />
 	<link rel="stylesheet" type="text/css" href="css/estilo.css">
