@@ -508,7 +508,7 @@
 
 			<div id="footer-direitos">
 				<h6>
-					Copyright 2021 | Todos los derechos reservados <strong class="azul">commente.me</strong> Marketing y Desarrollo commete.me Limitada / RUT: 77.152.026-K - Dr. Manuel Barros Borgoño 71 / 1105 | Providencia | Chile
+					Copyright 2021 | Todos los derechos reservados <strong class="azul">commente.me</strong> <br />Marketing y Desarrollo commete.me Limitada | RUT: 77.152.026-K - Dr. Manuel Barros Borgoño 71 / 1105 | Providencia | Chile
 				</h6>
 			</div>
 			
