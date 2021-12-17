@@ -114,7 +114,7 @@
 		<section id="secao1">
 
 			<!-- Seção 1 -->			
-			<section id="secao1-descricao">
+			<!-- <section id="secao1-descricao">
 
 				<div id="secao1-info">
 					
@@ -200,7 +200,7 @@
 
 				</div>				
 
-			</section>
+			</section> -->
 			<!-- Fim Seção 1 -->
 
 			<!-- Seção 2 -->
