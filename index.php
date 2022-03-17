@@ -477,7 +477,7 @@
 
 					<h5 class="verde">Santiago</h5>
 					<h6 class="azul">Dr Manuel Barros Borgoño 71 de la comuna de Providencia, Santiago de Chile</h6>
-					<h6 class="verde"><strong>T.+55 (21) 9 8259 2345</strong></h6>
+					<h6 class="verde"><strong>T.+56 9 5990 7346</strong></h6>
 
 				</div>
 
@@ -485,7 +485,7 @@
 
 					<h5 class="verde">Rio de Janeiro</h5>
 					<h6 class="azul">Av. Almirante Silvio Noronha, 365, Centro - Aeroporto Santos Dumont - Rio de Janeiro, RJ 20021-010</h6>
-					<h6 class="verde"><strong>T.+55 (21) 9 8259 2345</strong></h6>
+					<h6 class="verde"><strong>T.+56 9 5990 7346</strong></h6>
 
 				</div>
 
