@@ -377,19 +377,25 @@
 					<div class="owl-stage-outer">
 						<div class="owl-stage">
 							<div class="owl-item">
-								<img src="imgs/elementos commente.me-41.png" class="d-block">
+								<img src="imgs/clientes-commenteme-1.png" class="d-block">
 							</div>
 							<div class="owl-item">
-								<img src="imgs/elementos commente.me-088.png" class="d-block">
+								<img src="imgs/clientes-commenteme-2.png" class="d-block">
 							</div>
 							<div class="owl-item">
-								<img src="imgs/elementos commente.me-301.png" class="d-block">
+								<img src="imgs/clientes-commenteme-3.png" class="d-block">
 							</div>
 							<div class="owl-item">
-								<img src="imgs/elementos commente.me-441.png" class="d-block">
+								<img src="imgs/clientes-commenteme-4.png" class="d-block">
 							</div>
 							<div class="owl-item">
-								<img src="imgs/elementos commente.me-431.png" class="d-block">
+								<img src="imgs/clientes-commenteme-5.png" class="d-block">
+							</div>
+							<div class="owl-item">
+								<img src="imgs/clientes-commenteme-6.png" class="d-block">
+							</div>
+							<div class="owl-item">
+								<img src="imgs/clientes-commenteme-7.png" class="d-block">
 							</div>
 						</div>
 					</div>
