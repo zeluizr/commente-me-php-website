@@ -67,7 +67,7 @@
 
 			<a target="_blank" href="https://www.facebook.com/commente.me"><img src="imgs/elementos commente.me-14.png" /></a>
 
-			<a target="_blank" href="https://www.instagram.com/commente_me/"><img src="imgs/elementos commente.me-13.png" /></a>
+			<a target="_blank" href="https://www.instagram.com/commente.me/"><img src="imgs/elementos commente.me-13.png" /></a>
 
 			<a target="_blank" href="https://www.linkedin.com/company/commente"><img src="imgs/elementos commente.me-15.png" /></a>
 
