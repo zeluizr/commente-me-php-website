@@ -1,5 +1,4 @@
 <?php require "enviar/enviar.php" ?>
-
 <!DOCTYPE html>
 <html>
 
@@ -8,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="facebook-domain-verification" content="xg8y1lv5rwxh3zrq6dx1t73ceg66xb" />
 	<script src="//rum-static.pingdom.net/pa-6081cfda365abb001100027d.js" async></script>
-	<title>Commente-me</title>
+	<title>commente.me</title>
 	<link rel="icon" type="image/png" href="imgs/favicon.png" />
 	<link rel="stylesheet" type="text/css" href="css/estilo.css">
 	<link rel="stylesheet" type="text/css" href="css/nav.css">
