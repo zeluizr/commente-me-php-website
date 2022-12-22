@@ -11,7 +11,7 @@ if(isset($_POST['enviar'])) {
 
 
 
-	$email_remetente_dominio = "marcos@commente.me";
+	$email_remetente_dominio = "cantelle@commente.me";
 	$email_destinatario = "hablecon@commente.me";	
 	$email_reply = "$email";
 
